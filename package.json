@@ -1,0 +1,29 @@
+{
+  "name": "ndarray-canvas",
+  "version": "0.0.0",
+  "description": "Render an ndarray to a canvas",
+  "main": "index.js",
+  "devDependencies": {
+    "cave-automata-2d": "~0.2.2",
+    "ndarray-fill": "~0.1.0",
+    "zeros": "0.0.0",
+    "domready": "~0.2.11",
+    "beefy": "~0.4.0"
+  },
+  "scripts": {
+    "start": "beefy demo.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hughsk/ndarray-canvas.git"
+  },
+  "author": "Hugh Kennedy <hughskennedy@gmail.com> (http://hughskennedy.com/)",
+  "license": "MIT",
+  "keywords": [
+    "ndarray",
+    "canvas",
+    "render",
+    "image",
+    "2d"
+  ]
+}
